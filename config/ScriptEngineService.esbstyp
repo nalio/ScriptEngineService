@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serviceType name="ScriptEngineServiceType" factoryClass="com.progress.codeshare.esbservice.scriptEngine.ScriptEngineService"
+        xmlns="http://www.sonicsw.com/sonicxq">
+    <validParams>
+    </validParams>
+</serviceType>
